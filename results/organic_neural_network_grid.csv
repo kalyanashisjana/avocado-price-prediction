@@ -1,0 +1,13 @@
+mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_model__activation,param_model__alpha,param_model__hidden_layer_sizes,params,split0_test_score,mean_test_score,std_test_score,rank_test_score
+0.28695106506347656,0.0,0.0011851787567138672,0.0,relu,0.0001,"(32,)","{'model__activation': 'relu', 'model__alpha': 0.0001, 'model__hidden_layer_sizes': (32,)}",-0.5968501757447391,-0.5968501757447391,0.0,9
+0.16068744659423828,0.0,0.001283884048461914,0.0,relu,0.0001,"(64, 32)","{'model__activation': 'relu', 'model__alpha': 0.0001, 'model__hidden_layer_sizes': (64, 32)}",-0.24697126395941432,-0.24697126395941432,0.0,7
+0.07871794700622559,0.0,0.001972198486328125,0.0,relu,0.0001,"(128, 64)","{'model__activation': 'relu', 'model__alpha': 0.0001, 'model__hidden_layer_sizes': (128, 64)}",-0.6193579566068282,-0.6193579566068282,0.0,12
+0.3560974597930908,0.0,0.0011551380157470703,0.0,relu,0.01,"(32,)","{'model__activation': 'relu', 'model__alpha': 0.01, 'model__hidden_layer_sizes': (32,)}",-0.6027378543857165,-0.6027378543857165,0.0,10
+0.20985889434814453,0.0,0.001245737075805664,0.0,relu,0.01,"(64, 32)","{'model__activation': 'relu', 'model__alpha': 0.01, 'model__hidden_layer_sizes': (64, 32)}",-0.2534528395034394,-0.2534528395034394,0.0,8
+0.08066487312316895,0.0,0.0019307136535644531,0.0,relu,0.01,"(128, 64)","{'model__activation': 'relu', 'model__alpha': 0.01, 'model__hidden_layer_sizes': (128, 64)}",-0.6188485630405632,-0.6188485630405632,0.0,11
+0.1806318759918213,0.0,0.0013039112091064453,0.0,tanh,0.0001,"(32,)","{'model__activation': 'tanh', 'model__alpha': 0.0001, 'model__hidden_layer_sizes': (32,)}",-0.18633457733893788,-0.18633457733893788,0.0,1
+0.0368344783782959,0.0,0.0015213489532470703,0.0,tanh,0.0001,"(64, 32)","{'model__activation': 'tanh', 'model__alpha': 0.0001, 'model__hidden_layer_sizes': (64, 32)}",-0.23570174534219573,-0.23570174534219573,0.0,5
+0.04820871353149414,0.0,0.002186298370361328,0.0,tanh,0.0001,"(128, 64)","{'model__activation': 'tanh', 'model__alpha': 0.0001, 'model__hidden_layer_sizes': (128, 64)}",-0.2271684392173348,-0.2271684392173348,0.0,4
+0.1696479320526123,0.0,0.001241445541381836,0.0,tanh,0.01,"(32,)","{'model__activation': 'tanh', 'model__alpha': 0.01, 'model__hidden_layer_sizes': (32,)}",-0.18644432970834743,-0.18644432970834743,0.0,2
+0.035832881927490234,0.0,0.0013866424560546875,0.0,tanh,0.01,"(64, 32)","{'model__activation': 'tanh', 'model__alpha': 0.01, 'model__hidden_layer_sizes': (64, 32)}",-0.23573111296476812,-0.23573111296476812,0.0,6
+0.05022716522216797,0.0,0.002183675765991211,0.0,tanh,0.01,"(128, 64)","{'model__activation': 'tanh', 'model__alpha': 0.01, 'model__hidden_layer_sizes': (128, 64)}",-0.22714860658215558,-0.22714860658215558,0.0,3

@@ -3,6 +3,5 @@ __pycache__/
 .venv/
 .env
 *.pyc
-data/*.csv
-results/*.csv
-results/*.png
+.DS_Store
+*:Zone.Identifier
